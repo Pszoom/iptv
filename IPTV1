@@ -1,1 +1,49 @@
+#EXTM3U
+#EXTINF:-1,[COLOR green]--- WORLD IPTV CHANNELS ---[/COLOR]
+http://0.0.6.0:1234
+#EXTINF:-1,[COLOR yellow]By best-addons-kodi-xbmc.blogspot.com[/B][/I][/COLOR]
+http://0.1.5.0:1224
+#EXTINF:-1,[COLOR yellow]---Follow Us On @BestOnKodi ---[/COLOR]
+http://0.0.6.0:123434
+
+
+#EXTINF:-1,animal-planet
+http://185.214.192.19:5000/play/2170
+#EXTINF:-1,USA: Fight Sport 1
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20438.ts
+#EXTINF:-1,USA: Fight Sport 2
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20437.ts#EXTINF:-1,USA: HBO 2 COMEDY
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20424.ts
+#EXTINF:-1,USA: HBO Family HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20423.ts
+#EXTINF:-1,USA: HBO HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20422.ts
+#EXTINF:-1,USA: HBO SIGNATURE
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20421.ts
+#EXTINF:-1,USA: HBO ZONE
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20420.ts
+#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20371.ts
+#EXTINF:-1,USA: Showtime 2 HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20362.ts
+#EXTINF:-1,USA: Showtime Extreme HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20361.ts
+#EXTINF:-1,USA: Showtime HDTV
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20360.ts
+#EXTINF:-1,USA: Showtime Showcase
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20359.ts
+#EXTINF：-1，US | CINEMAX HD 
+http://144.217.64.126:8080/live/toby1/toby1/20976.m3u8 
+#EXTINF：-1，US | CINEMAX MOREMAX HD 
+http://144.217.64.126:8080/live/toby1/toby1/20975.m3u8 
+#EXTINF：-1，US | CINEMAX THRILLERMAX HD 
+http://144.217.64.126:8080/live/toby1/toby1/20974.m3u8 
+#EXTINF：-1，US | STARZ CINEMA HD 
+http://144.217.64.126:8080/live/toby1/toby1/21460.m3u8
+#EXTINF：-1，DISNEY CA 
+http://144.217.64.126:8080/live/toby1/toby1/20719.m3u8 
+#EXTINF：-1，DISNEY HD CA 
+http://144.217.64.126:8080/live/toby1/toby1/20728.m3u8 
+#EXTINF：-1，DISNEY JR CA
+http://144.217.64.126:8080/live/toby1/toby1/20727.m3u8 
 
