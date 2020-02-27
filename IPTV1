@@ -1,1 +1,21 @@
-
+#EXTM3U
+#EXTINF:-1,amc-hu
+http://185.214.192.19:5000/play/1923
+#EXTINF:-1,animal-planet
+http://185.214.192.19:5000/play/2170
+#EXTINF:-1,USA: A&E HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20501.ts
+#EXTINF:-1,USA: Fight Network / MMA Network
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20439.ts
+#EXTINF:-1,USA: THE WALKING DEAD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20344.ts
+#EXTINF：-1，US | SYFY HD 
+http://144.217.64.126:8080/live/toby1/toby1/20909.m3u8 
+#EXTINF:-1,US | FOX NEWS
+http://p4.giffy.be:8080/live/demo/demo/20706.ts
+#EXTINF:-1,US | EPIX 2 HD
+http://p4.giffy.be:8080/live/demo/demo/20968.ts
+#EXTINF:-1,US | HALLMARK HD
+http://p4.giffy.be:8080/live/demo/demo/29987.ts
+#EXTINF:-1,US | LIFETIME MOVIES HD
+http://p4.giffy.be:8080/live/demo/demo/20914.ts
